@@ -5,6 +5,12 @@ Objective: To create an Android app that utilizes a low level OS functionality.
 
 Description:  An app that allows a user to access his or her music collection from anywhere in the world. Thousands of songs can be hosted on a server. Browse your song list, then download on demand. You can download only the songs you want at that moment, saving you precious storage space on your phone. Afterwards you can play the songs directly inside the app. The app utilizes socket connections and threading.
 
+!*********************!
+Note: This app was built upon features taught in Bill Butterfield's "Connecting to a MySQL Database" and "Making Lists" Android Studio Tutorials. These tutorials can be found here: 
+Making Lists: https://www.youtube.com/watch?v=rdGpT1pIJlw
+Connecting to a MySQL Database: https://www.youtube.com/watch?v=bu5Y3uZ6LLM&t=374s
+!********************!
+
 Requirements: 
   1. An SQL server to host the song information. (Artist, title, duration, etc.)
   FILLER IMAGE
