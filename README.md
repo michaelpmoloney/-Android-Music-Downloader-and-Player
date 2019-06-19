@@ -10,12 +10,12 @@ Making Lists: https://www.youtube.com/watch?v=rdGpT1pIJlw\ <br/>
 Connecting to a MySQL Database: https://www.youtube.com/watch?v=bu5Y3uZ6LLM&t=374s
 
 Requirements: 
-  1. An SQL server to host the song information. (Artist, title, duration, etc.)
-  FILLER IMAGE
+  1. An SQL server to host the song information. (Artist, title, duration, etc.) <br/>
+  FILLER IMAGE <br/>
   Pictured Above: Database table storing the song names and song durations 
   
-  2. A socket server host.
-  FILLER IMAGE
+  2. A socket server host. <br/>
+  FILLER IMAGE <br/>
   Pictured Above: The song server waiting for a connection, connecting, receiving the song request, sending the requested song, then waiting for another client request. 
   
   3. Android phone
