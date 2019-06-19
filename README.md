@@ -22,14 +22,14 @@ Requirements:
   
   /******************************************************************************************************************/
  
-App Instructions:
+App Instructions: <br/>
 FILLER IMAGE
 FILLER IMAGE
+FILLER IMAGE <br/>
+Step 1. The user clicks get data. Their song collection is then retrieved from the database and listed with the song name and song duration. <br/>
 FILLER IMAGE
-Step 1. The user clicks get data. Their song collection is then retrieved from the database and listed with the song name and song duration. 
 FILLER IMAGE
-FILLER IMAGE
-FILLER IMAGE
-Step 2. The user selects a song and it is downloaded to their phone’s song directory (the directory is pictured before and after the song selection showing that the song has been downloaded to the phone) 
-FILLER IMAGE
+FILLER IMAGE <br/>
+Step 2. The user selects a song and it is downloaded to their phone’s song directory (the directory is pictured before and after the song selection showing that the song has been downloaded to the phone) <br/>
+FILLER IMAGE <br/>
 Step 3. The song is automatically loaded into the Music Player of the app. Now the user can play, pause, and stop the song.
