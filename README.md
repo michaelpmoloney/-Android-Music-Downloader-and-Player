@@ -23,9 +23,9 @@ Requirements:
   /******************************************************************************************************************/
  
 App Instructions: <br/>
-![alt text](https://raw.githubusercontent.com/michaelpmoloney/-Android-Music-Downloader-and-Player/blob/master/Activity%201%20no%20action.JPG)
-![alt text](https://raw.githubusercontent.com/michaelpmoloney/-Android-Music-Downloader-and-Player/blob/master/Activity%201%20getting%20data.JPG
-![alt text](https://raw.githubusercontent.com/michaelpmoloney/-Android-Music-Downloader-and-Player/blob/master/Activity%201%20got%20data.JPG <br/>
+![alt text](https://raw.githubusercontent.com/michaelpmoloney/-Android-Music-Downloader-and-Player/master/Activity%201%20no%20action.JPG)
+![alt text](https://raw.githubusercontent.com/michaelpmoloney/-Android-Music-Downloader-and-Player/master/Activity%201%20getting%20data.JPG
+![alt text](https://raw.githubusercontent.com/michaelpmoloney/-Android-Music-Downloader-and-Player/master/Activity%201%20got%20data.JPG <br/>
 Step 1. The user clicks get data. Their song collection is then retrieved from the database and listed with the song name and song duration. <br/>
 FILLER IMAGE
 FILLER IMAGE
