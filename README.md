@@ -31,5 +31,5 @@ Step 1. The user clicks get data. Their song collection is then retrieved from t
 ![alt text](https://raw.githubusercontent.com/michaelpmoloney/-Android-Music-Downloader-and-Player/master/Activity%201%20got%20data.JPG)
 ![alt text](https://raw.githubusercontent.com/michaelpmoloney/-Android-Music-Downloader-and-Player/master/Music%20Directory%20after.JPG) <br/>
 Step 2. The user selects a song and it is downloaded to their phone’s song directory (the directory is pictured before and after the song selection showing that the song has been downloaded to the phone) <br/>
-FILLER IMAGE <br/>
+![alt text](https://raw.githubusercontent.com/michaelpmoloney/-Android-Music-Downloader-and-Player/blob/master/Music%20player.JPG) <br/>
 Step 3. The song is automatically loaded into the Music Player of the app. Now the user can play, pause, and stop the song.
