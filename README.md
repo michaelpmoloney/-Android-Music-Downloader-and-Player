@@ -11,11 +11,11 @@ Connecting to a MySQL Database: https://www.youtube.com/watch?v=bu5Y3uZ6LLM&t=37
 
 Requirements: 
   1. An SQL server to host the song information. (Artist, title, duration, etc.) <br/>
-  FILLER IMAGE <br/>
+  ![alt text](https://raw.githubusercontent.com/michaelpmoloney/-Android-Music-Downloader-and-Player/master/MySQL%20db.JPG) <br/>
   Pictured Above: Database table storing the song names and song durations 
   
   2. A socket server host. <br/>
-  FILLER IMAGE <br/>
+  ![alt text](https://raw.githubusercontent.com/michaelpmoloney/-Android-Music-Downloader-and-Player/master/Server.JPG) <br/>
   Pictured Above: The song server waiting for a connection, connecting, receiving the song request, sending the requested song, then waiting for another client request. 
   
   3. Android phone
